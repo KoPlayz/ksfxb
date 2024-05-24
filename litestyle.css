@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.button {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px;
+  font-weight: 500;
+}
