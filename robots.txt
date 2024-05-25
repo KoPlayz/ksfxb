@@ -1,2 +1,26 @@
-User-agent: *
+# Allow IA
+User-agent: ia_archiver
 Disallow:
+
+# Deny some AI bots
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: TikTok
+Disallow: /
